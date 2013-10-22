@@ -1,0 +1,1 @@
+"./uart2.obj" "./uart.obj" "./main.obj" "./led.obj" "./debounce.obj" "../lnk_msp430fr5739.cmd" -l"libmath.a" -l"libc.a" 
